@@ -1,0 +1,10 @@
+[submodule "OpenRGB"]
+	path = OpenRGB
+	url = https://gitlab.com/CalcProgrammer1/OpenRGB.git
+	branch = master
+[submodule "dependencies/libcron"]
+	path = dependencies/libcron
+	url = https://github.com/PerMalmberg/libcron.git
+[submodule "dependencies/date"]
+	path = dependencies/date
+	url = https://github.com/HowardHinnant/date/
