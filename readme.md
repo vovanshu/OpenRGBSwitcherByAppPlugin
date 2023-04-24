@@ -1,6 +1,6 @@
 # Plugin for switch profile/effects on foreground application
-# Based on Scheduler Plugin
-# Write and tested on Windows platform!
+## Based on the Scheduler Plugin
+Write and tested on Windows platform!
 
 # Scheduler Plugin 
 
